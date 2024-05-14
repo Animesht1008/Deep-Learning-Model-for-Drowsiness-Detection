@@ -1,0 +1,10 @@
+./__pycache__
+./test
+./train
+./val
+*.pyc
+*.jpeg
+*.jpg
+*.rar
+*.png
+*.zip
