@@ -1,2 +1,3 @@
-# Deep-Learning-Model-for-Drowsiness-Detection
-This project is based upon efficient light-weight Deep learning model for drowsiness detection, consist of multiple model and also being compared with other light weight models too.  
+# Deep-Learning-Model-for-Drowsiness-Detection 
+This Research is accepted by the IEEE.org in 2024 and the paper is going to be publised soon in IEEE Xplore. 
+For any details or information about the research work you can contact on animeshtiwari1875@gmail.com
